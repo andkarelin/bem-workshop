@@ -1,0 +1,14 @@
+{
+  "author": "andkarelin",
+  "name": "bfs-stub",
+  "email": "andkarelin@gmail.com",
+  "version": "0.0.0",
+  "ignore": [
+    ".bem/cache",
+    "node_modules",
+    "libs"
+  ],
+  "dependencies": {
+    "bem-components": "v2.0.0"
+  }
+}

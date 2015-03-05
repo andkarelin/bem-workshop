@@ -1,0 +1,21 @@
+{
+  "name": "bem-full-stack",
+  "version": "0.0.1",
+  "description": "Изучаем разработку веб-приложения с использованием БЭМ-методологии и инструментов.",
+  "author": "Dima Belitsky <dmtry@yandex-team.ru> (https://github.com/dab)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.yandex-team.ru/dmtry/bfs-workshop"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "colors-tmpl": "~0.1.0",
+    "phantom": "^0.6.5",
+    "phantomjs": "^1.9.7-15",
+    "workshopper": "git+https://github.com/dab/workshopper-ru",
+    "workshopper-exercise": "^0.2.2",
+    "ym": "^0.1.0"
+  },
+  "bin": "./bfs-workshop.js",
+  "preferGlobal": true
+}

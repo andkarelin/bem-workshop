@@ -1,0 +1,5 @@
+Found a bug with this app or just want to contribute?
+
+    The official repository for BEM-WORKSHOP is:
+      https://github.com/bem/bem-workshop/
+        Feel free to file a bug report or (preferably) a pull request.

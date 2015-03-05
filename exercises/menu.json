@@ -1,0 +1,17 @@
+[
+    "Проверка окружения",
+    "Генерация заготовки проекта",
+    "Добавить блоки",
+    "Добавить элементы",
+    "Дописать BEMJSON блока header",
+    "Дописать BEMJSON блоков island и content",
+    "Стили блоков header island content page",
+    "BEMHTML блока form",
+    "Добавить блоки из bem-components",
+    "i-bem.js проверка инициализации блока",
+    "DOM-события",
+    "BEM-события",
+    "Jquery AJAX. блок sssr",
+    "BEMDOM.UPDATE",
+    "Добавить блок spin"
+]
